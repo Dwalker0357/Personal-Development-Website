@@ -1,0 +1,37 @@
+.container {
+    display:flex;
+    min-height: 10vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.box {
+  color: #fff;
+  border-radius: 54px;
+  padding: 0px;
+  width: 25%
+  font-size: 0%;
+}
+
+
+body {
+background-color: black;
+
+}
+
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+
+.boxtwo {
+color: #fff;
+border-radius:px;
+padding: 75px;
+width: 25%
+font-size: 0%;
+}
